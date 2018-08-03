@@ -34,5 +34,7 @@ The above command will start the server for you
 
 If you see "App listening on PORT 8080" in your CLI, then you're good to go :thumbsup:!
 <br/><br/>
-<b>Happy Fun!</b>
+<a href="https://shielded-eyrie-10056.herokuapp.com/">https://shielded-eyrie-10056.herokuapp.com/</a>
+<br/>
+<b>Have Fun!</b>
 <br/>
