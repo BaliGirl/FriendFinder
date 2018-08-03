@@ -32,7 +32,7 @@ The above command will start the server for you
 ###### Step 4
 > Open your browser to http://localhost:8080/
 
-If you see "App listening on PORT 8080" in your CLI, then you're good to go :thumbsup:!
+If you see "http://localhost:8080" refer as App listening on PORT 8080 in your CLI, then you're good to go :thumbsup:!
 <br/><br/>
 <a href="https://shielded-eyrie-10056.herokuapp.com/">https://shielded-eyrie-10056.herokuapp.com/</a>
 <br/>
