@@ -25,7 +25,7 @@ change, nodemon will automatically restart your node application.
 
 <br/>
 ###### Step 3
-> nodemon server.js
+> node server.js
 The above command will start the server for you
 
 <br/>
