@@ -8,6 +8,8 @@ will then display the name and picture of the user with the best overall match.<
 Once you have Node.js installed on your computer, navigate to the working directory and do the following in your terminal. </p>
 <br/>
 Before you proceed, make sure you fork the repo
+<br/>
+<br/>
 ###### Step 1
 > npm install
 
@@ -31,6 +33,6 @@ The above command will start the server for you
 > Open your browser to http://localhost:8080/
 
 If you see "App listening on PORT 8080" in your CLI, then you're good to go :thumbsup:!
-<br/>
+<br/><br/>
 <b>Happy Fun!</b>
 <br/>
